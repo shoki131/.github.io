@@ -1,0 +1,58 @@
+@media all and (max-width: 1000px){
+}
+
+  .index-btn-wrapper{
+    width: 80%;
+    margin: 0 auto;
+  }
+
+@media all and (max-width: 670px){
+
+  .logo{
+    font-size: 15px;
+  }
+
+  .container h1{
+    font-size:22px;
+  }
+
+  .top-wrapper{
+   padding: 200px 0 200px 0;
+  }
+
+  .header-menu{
+    display: none;
+  }
+
+  .slide{
+    width: 100%;
+  }
+
+  .description-wrapper p{
+    width: 80%;
+  }
+
+  .change-btn-wrapper{
+    display: none;
+  }
+
+  footer{
+    height: 350px;
+  }
+
+  footer
+
+  footer a{
+    width: 100%;
+  }
+
+  .footer-left a{
+    padding-left: 40px;
+  }
+
+  .footer-menu ul{
+    width: 100%;
+
+  }
+
+}
