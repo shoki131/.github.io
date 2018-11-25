@@ -166,6 +166,10 @@ header{
 
 }
 
+.description-wrapper h1{
+  color: white;
+}
+
 .description-wrapper p{
     width: 70%;
     margin: 0 auto;
